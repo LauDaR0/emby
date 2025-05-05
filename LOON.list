@@ -86,6 +86,9 @@ DOMAIN,us.nanflix.net,emby
 #蜗壳有声书
 DOMAIN,audiobook.mefun.org,DIRECT
 
+#歌词
+DOMAIN,api.lrc.cx,DIRECT
+
 
 
 
