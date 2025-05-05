@@ -80,6 +80,9 @@ DOMAIN,emby.1l1.icu,DIRECT
 #非越
 DOMAIN,cf.sfcj.org,emby
 
+#nanflix
+DOMAIN,us.nanflix.net,emby
+
 #蜗壳有声书
 DOMAIN,audiobook.mefun.org,DIRECT
 
