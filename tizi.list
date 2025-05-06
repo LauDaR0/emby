@@ -16,10 +16,6 @@ DOMAIN,music.mefun.org,emby
 
 #音海拾贝
 DOMAIN,music2.makifx.com,emby
-DOMAIN,music.makifx.com,DIRECT
-
-#南瓜音乐
-DOMAIN,nangua.de,DIRECT
 
 #云海互联
 DOMAIN,emby.oceancloud.asia,emby
@@ -74,24 +70,13 @@ DOMAIN,us.carlos.trade,emby
 #桃子
 DOMAIN,embymv.link,emby
 
-#PrejuDice Service
-DOMAIN,emby.1l1.icu,DIRECT
-
 #非越
 DOMAIN,cf.sfcj.org,emby
 
 #nanflix
 DOMAIN,us.nanflix.net,emby
 
-#蜗壳有声书
-DOMAIN,audiobook.mefun.org,DIRECT
 
-#歌词
-DOMAIN,api.lrc.cx,DIRECT
-DOMAIN,lrc.xms.mx,DIRECT
-
-#唔语
-DOMAIN,api.miguu.top,DIRECT
 
 
 
