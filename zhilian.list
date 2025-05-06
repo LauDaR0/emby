@@ -1,0 +1,20 @@
+#emby直连
+
+#音海拾贝
+DOMAIN,music.makifx.com,DIRECT
+
+#南瓜音乐
+DOMAIN,nangua.de,DIRECT
+
+#PrejuDice Service
+DOMAIN,emby.1l1.icu,DIRECT
+
+#蜗壳有声书
+DOMAIN,audiobook.mefun.org,DIRECT
+
+#歌词
+DOMAIN,api.lrc.cx,DIRECT
+DOMAIN,lrc.xms.mx,DIRECT
+
+#唔语
+DOMAIN,api.miguu.top,DIRECT
