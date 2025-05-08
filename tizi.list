@@ -80,7 +80,7 @@ DOMAIN,us.nanflix.net,emby
 DOMAIN,gy.meowfly.de,emby
 
 #不知名
-DOMAIN,91.108.56.123,emby
+IP-CIDR,91.108.56.123,emby
 
 
 
