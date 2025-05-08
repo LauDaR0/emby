@@ -79,8 +79,6 @@ DOMAIN,us.nanflix.net,emby
 #飞了个喵
 DOMAIN,gy.meowfly.de,emby
 
-#不知名
-IP-CIDR,91.108.0.0/16,emby
 
 
 
