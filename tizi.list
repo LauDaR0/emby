@@ -1,4 +1,4 @@
-#emby分流规则
+1#emby分流规则
 #MISTY
 DOMAIN,misty.cx,emby
 
@@ -88,6 +88,9 @@ DOMAIN,cc.coemn.com,emby
 #猫眼
 DOMAIN,frre.me,emby
 DOMAIN,cat-eye.top,emby
+
+#肥牛
+DOMAIN,emby2.feiniu.lol,emby
 
 #跑路
 DOMAIN,cctv.paoluma.de,emby
