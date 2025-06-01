@@ -1,4 +1,4 @@
-1#emby分流规则
+#emby分流规则
 #MISTY
 DOMAIN,misty.cx,emby
 
@@ -103,6 +103,10 @@ DOMAIN,emby.yomo.lol,emby
 
 #star
 DOMAIN,emby2.staryuki.com,emby
+
+#星云
+DOMAIN,emby.nebula-media.org,emby
+
 
 
 
