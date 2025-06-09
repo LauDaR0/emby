@@ -124,7 +124,7 @@ DOMAIN,edge.staryuki.me,emby
 DOMAIN,ciallo.party,emby
 
 #July
-IP-CIDR,45.142.176.135,emby
+DOMAIN,45.142.176.135:80.emby
 
 
 
