@@ -11,6 +11,9 @@ DOMAIN,emby.bangumi.ca,emby
 #ikun音乐服
 DOMAIN,music.xxxh.de,emby
 
+#稳健音乐
+DOMAIN,music.wenjian.de,emby
+
 #未响
 DOMAIN,music.mefun.org,emby
 
