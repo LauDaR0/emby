@@ -9,19 +9,19 @@ DOMAIN,jsq.vban.xyz,emby
 DOMAIN,emby.bangumi.ca,emby
 
 #ikun音乐服
-#DOMAIN,music.xxxh.de,emby
+#DOMAIN,music.xxxh.de,songs
 
 #稳健音乐
-#DOMAIN,music.wenjian.de,emby
+#DOMAIN,music.wenjian.de,songs
 
 #未响
-#DOMAIN,music.mefun.org,emby
+#DOMAIN,music.mefun.org,songs
 
 #音海拾贝
-#DOMAIN,music2.makifx.com,emby
+#DOMAIN,music2.makifx.com,songs
 
 #南瓜
-#DOMAIN,vip.nangua.de,emby
+#DOMAIN,vip.nangua.de,songs
 
 
 #云海互联
