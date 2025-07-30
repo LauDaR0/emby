@@ -147,6 +147,10 @@ DOMAIN,emby.heisi.org,emby
 DOMAIN,lite.cn2gias.uk,emby
 DOMAIN,lite-v6.cn2gias.uk,emby
 
+#ZN的影视库
+DOMAIN,emby.zn.al,emby
+
+
 
 
 
