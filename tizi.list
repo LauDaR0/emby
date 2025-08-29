@@ -144,7 +144,10 @@ DOMAIN,plumber.nezhasu.com,emby
 #ME
 DOMAIN,bava.mebimmer.de,emby
 
-
+#终点站
+DOMAIN,pub1.emby.wtf,emby
+DOMAIN,pub2.emby.wtf,emby
+DOMAIN,pub3.emby.wtf,emby
 
 
 
