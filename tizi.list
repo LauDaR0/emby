@@ -137,6 +137,7 @@ DOMAIN,lite-v6.cn2gias.uk,emby
 #ZN的影视库
 DOMAIN,emby.zn.al,emby
 DOMAIN,pan.8897122.xyz,emby
+
 #shrek
 DOMAIN,public.shrekmedia.org,emby
 
@@ -154,6 +155,9 @@ DOMAIN,pub3.emby.wtf,emby
 
 #琉璃门
 DOMAIN,emby.kongcheng666.dpdns.org,emby
+
+#豆瓣
+DOMAIM,onatoshi.114514.quest,emby
 
 #云云
 DOMAIN,yunti.online,emby
