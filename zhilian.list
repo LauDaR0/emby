@@ -83,6 +83,10 @@ DOMAIN,emby.bwihz.cn,DIRECT
 #月饼
 DOMAIN,emby.my,DIRECT
 
+#琴鸟
+DOMAIN,cdn.2580852.xyz,DIRECT
+DOMAIN,cdn.lyrebirdemby,DIRECT
+
 #PrejuDice Service
 DOMAIN,emby.1l1.icu,DIRECT
 
