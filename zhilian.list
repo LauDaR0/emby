@@ -77,6 +77,12 @@ DOMAIN,emby.bangumi.ca,DIRECT
 #HOHAI
 DOMAIN,emby.hohai.eu.org,DIRECT
 
+#DPeak
+DOMAIN,emby.bwihz.cn,DIRECT
+
+#月饼
+DOMAIN,emby.my,DIRECT
+
 #PrejuDice Service
 DOMAIN,emby.1l1.icu,DIRECT
 
