@@ -16,27 +16,14 @@ DOMAIN,hkb-emby.aliz.work,emby
 #youno
 DOMAIN,emby.younoyes.com,emby
 
-#影迹
-DOMAIN,emby1.123456789.lol,emby
-
-#入机
-DOMAIN,rjcf.rjf37.com,emby
-
 #PORNfans
 DOMAIN,pornemby.com,emby
 
 #飞了个喵
 DOMAIN,gy.meowfly.de,emby
 
-#猫眼
-DOMAIN,frre.me,emby
-DOMAIN,cat-eye.top,emby
-
 #肥牛
 DOMAIN,emby.feiniu.lol,emby
-
-#跑路
-DOMAIN,cctv.paoluma.de,emby
 
 #star
 DOMAIN,de2.staryuki.me,emby
@@ -47,13 +34,13 @@ DOMAIN,emby.nebula-media.org,emby
 #临境
 DOMAIN,emby.liminalnet.com,emby
 
-#无界云
+#无界云playz
 DOMAIN,playz.mjji.de,emby
 
 #EDGE
 DOMAIN,edge.staryuki.me,emby
 
-#105°
+#105°就是0°
 DOMAIN,ciallo.party,emby
 
 #土匪
@@ -66,13 +53,6 @@ DOMAIN,zoxfree.3767483.xyz,emby
 #守候
 DOMAIN,lite.cn2gias.uk,emby
 DOMAIN,lite-v6.cn2gias.uk,emby
-
-#ZN的影视库
-DOMAIN,emby.zn.al,emby
-DOMAIN,pan.8897122.xyz,emby
-
-#HOHAI
-DOMAIN,servers.hohai.eu.org,emby
 
 
 
