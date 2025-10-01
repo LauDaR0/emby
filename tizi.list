@@ -3,9 +3,6 @@
 #MISTY
 DOMAIN,misty.cx,emby
 
-#见手青
-DOMAIN,jsq.vban.xyz,emby
-
 #nya公益
 DOMAIN,emby.bangumi.ca,emby
 
@@ -15,36 +12,12 @@ DOMAIN,emby.oceancloud.asia,emby
 #云海互联porn
 DOMAIN,nsfw.oceancloud.asia,emby
 
-#叶子
-DOMAIN,super.yezi.my,emby
-DOMAIN,yyds.yezi.my,emby
-DOMAIN,yzyz.yezi.my,emby
-DOMAIN,yz.yezi.my,emby
-
 #HKA
 DOMAIN,hka-emby.aliz.work,emby
 DOMAIN,hkb-emby.aliz.work,emby
 
-#叔服
-DOMAIN,emby3.mcjoker.xyz,emby
-
-#探花
-DOMAIN,tanhuatv.site,emby
-
-#稳健
-DOMAIN,emby.wenjian.de,emby
-
-#起点站
-DOMAIN,free.28.al,emby
-
 #youno
 DOMAIN,emby.younoyes.com,emby
-
-#KIKU
-DOMAIN,emby1.ucloudhost.top,emby
-
-#SaturDar.Lite
-DOMAIN,lite.saturdayvideo.top,emby
 
 #影迹
 DOMAIN,emby1.123456789.lol,emby
@@ -55,30 +28,8 @@ DOMAIN,rjcf.rjf37.com,emby
 #PORNfans
 DOMAIN,pornemby.com,emby
 
-#特卡
-DOMAIN,cf.carlos.trade,emby
-DOMAIN,us.carlos.trade,emby
-DOAIN,emby.carlos.trade,emby
-
-#桃子
-DOMAIN,embymv.link,emby
-
-#非越
-DOMAIN,cf.sfcj.org,emby
-
-#nanflix
-DOMAIN,us.nanflix.net,emby
-
 #飞了个喵
 DOMAIN,gy.meowfly.de,emby
-
-#紫罗兰
-DOMAIN,emby.violet.run,emby
-
-#CC
-DOMAIN,cc.coemn.com,emby
-DOMAIN,cc.embycc.link,emby
-
 
 #猫眼
 DOMAIN,frre.me,emby
@@ -89,12 +40,6 @@ DOMAIN,emby.feiniu.lol,emby
 
 #跑路
 DOMAIN,cctv.paoluma.de,emby
-
-#惊蛰
-DOMAIN,emby.jingzhe.pro,emby
-
-#yomo服不服
-DOMAIN,emby.yamo.uk,emby
 
 #star
 DOMAIN,de2.staryuki.me,emby
@@ -118,17 +63,8 @@ DOMAIN,ciallo.party,emby
 DOMAIN,tufei.de,emby
 DOMAIN,qiandu.de,emby
 
-#july
-DOMAIN,alist7.eu.org,emby
-
-#MSKY
-DOMAIN,cf.5msky.com,emby
-
 #ZOX
 DOMAIN,zoxfree.3767483.xyz,emby
-
-#游骑兵
-DOMAIN,emby.heisi.org,emby
 
 #守候
 DOMAIN,lite.cn2gias.uk,emby
@@ -138,29 +74,10 @@ DOMAIN,lite-v6.cn2gias.uk,emby
 DOMAIN,emby.zn.al,emby
 DOMAIN,pan.8897122.xyz,emby
 
-#shrek
-DOMAIN,public.shrekmedia.org,emby
+#HOHAI
+DOMAIN,servers.hohai.eu.org,emby
 
-#plumber不倒
-DOMAIN,plumber.nezhasu.com,emby
-DOMAIN,shouer.910427.xyz,emby
 
-#ME
-DOMAIN,mperformance.mebimmer.de,emby
-
-#终点站
-DOMAIN,pub1.emby.wtf,emby
-DOMAIN,pub2.emby.wtf,emby
-DOMAIN,pub3.emby.wtf,emby
-
-#琉璃门
-DOMAIN,emby.kongcheng666.dpdns.org,emby
-
-#豆瓣
-DOMAIM,onatoshi.114514.quest,emby
-
-#云云
-DOMAIN,yunti.online,emby
 
 
 
