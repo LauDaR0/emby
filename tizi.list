@@ -40,8 +40,8 @@ DOMAIN,emby.liminalnet.com,emby
 #无界云playz
 DOMAIN,playz.mjji.de,emby
 
-#EDGE
-DOMAIN,edge.staryuki.me,emby
+#star emby
+DOMAIN,de2.staryuki.me,emby
 
 #105°就是0°
 DOMAIN,ciallo.party,emby
