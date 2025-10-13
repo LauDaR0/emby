@@ -1,5 +1,8 @@
 #emby分流规则
 
+#桃子
+DOMAIN,embymv.link,emby
+
 #MISTY
 DOMAIN,misty.cx,emby
 
