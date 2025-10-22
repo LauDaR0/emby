@@ -122,8 +122,8 @@ DOMAIN,public.shrekmedia.org,emby
 DOMAIN,shouer.910427.xyz,emby
 
 #ME
-DOMAIN,sport.mebimmer.de,emby
-
+DOMAIN,mpcs.mebimmer.de,emby
+DOMAIN,spcs.mebimmer.de,emby
 #终点站
 DOMAIN,pub1.emby.wtf,emby
 DOMAIN,pub2.emby.wtf,emby
