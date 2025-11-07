@@ -57,9 +57,6 @@ DOMAIN,embymv.link,emby
 #非越
 DOMAIN,cf.sfcj.org,emby
 
-#nanflix
-DOMAIN,us.nanflix.net,emby
-
 #飞了个喵
 DOMAIN,gy.meowfly.de,emby
 
@@ -79,9 +76,6 @@ DOMAIN,emby.jingzhe.pro,emby
 #yomo服不服
 DOMAIN,emby.yamo.uk,emby
 
-#star
-DOMAIN,de2.staryuki.me,emby
-
 #星云
 DOMAIN,emby.nebula-media.org,emby
 DOMAIN,emby-cdn1.nebula-media.org,emby
@@ -97,10 +91,6 @@ DOMAIN,de2.staryuki.me,emby
 
 #105°就是0°
 DOMAIN,ciallo.party,emby
-
-#土匪
-DOMAIN,tufei.de,emby
-DOMAIN,qiandu.de,emby
 
 #MSKY
 DOMAIN,cf.5msky.com,emby
@@ -121,16 +111,10 @@ DOMAIN,public.shrekmedia.org,emby
 #小竹轩
 DOMAIN,shouer.910427.xyz,emby
 
-#ME
-DOMAIN,mpcs.mebimmer.de,emby
-DOMAIN,spcs.mebimmer.de,emby
 #终点站
 DOMAIN,pub1.emby.wtf,emby
 DOMAIN,pub2.emby.wtf,emby
 DOMAIN,pub3.emby.wtf,emby
-
-#琉璃门
-DOMAIN,emby.kongcheng666.dpdns.org,emby
 
 #豆瓣
 DOMAIM,onatoshi.114514.quest,emby
@@ -138,18 +122,11 @@ DOMAIM,onatoshi.114514.quest,emby
 #月饼
 DOMAIN,emby.my,emby
 
-#琴鸟
-DOMAIN,cdn.2580852.xyz,emby
-DOMAIN,cdn.lyrebirdemby,emby
-
 #HOHAI
 DOMAIN,emby.hohai.eu.org,emby
 
 #西瓜
 DOMAIN,emby.chilledmelon.com,emby
-
-#prejudice
-DOMAIN,emby.1l1.icu,emby
 
 #云幕
 DOMAIN,emby.nubebelle.cn,emby
