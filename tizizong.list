@@ -20,7 +20,6 @@ DOMAIN,nsfw.oceancloud.asia,emby
 
 #HKA
 DOMAIN,hka-emby.aliz.work,emby
-DOMAIN,hkb-emby.aliz.work,emby
 
 #叔服
 DOMAIN,emby3.mcjoker.xyz,emby
@@ -39,6 +38,7 @@ DOMAIN,emby.younoyes.com,emby
 
 #KIKU
 DOMAIN,emby1.ucloudhost.top,emby
+DOMAIN,emby2.ucloudhost.top,emby
 
 #SaturDar.Lite
 DOMAIN,lite.saturdayvideo.top,emby
@@ -64,7 +64,6 @@ DOMAIN,gy.meowfly.de,emby
 DOMAIN,emby.violet.run,emby
 
 #CC
-DOMAIN,cc.coemn.com,emby
 DOMAIN,cc.embycc.link,emby
 
 #肥牛
@@ -78,7 +77,6 @@ DOMAIN,emby.yamo.uk,emby
 
 #星云
 DOMAIN,emby.nebula-media.org,emby
-DOMAIN,emby-cdn1.nebula-media.org,emby
 
 #临境
 DOMAIN,emby.liminalnet.com,emby
@@ -103,7 +101,6 @@ DOMAIN,emby.heisi.org,emby
 
 #守候
 DOMAIN,lite.cn2gias.uk,emby
-DOMAIN,lite-v6.cn2gias.uk,emby
 
 #shrek
 DOMAIN,public.shrekmedia.org,emby
@@ -121,6 +118,7 @@ DOMAIM,onatoshi.114514.quest,emby
 
 #月饼
 DOMAIN,emby.my,emby
+DOMAIN,a.emby.my,emby
 
 #HOHAI
 DOMAIN,emby.hohai.eu.org,emby
