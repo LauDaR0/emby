@@ -1,21 +1,21 @@
 #ikun音乐服
-DOMAIN,music.28.al,PROXY
+DOMAIN,music.28.al,emby
 
 #稳健音乐
-DOMAIN,music.wenjian.de,PROXY
+DOMAIN,music.wenjian.de,emby
 
 #未响
-DOMAIN,music.mefun.org,PROXY
+DOMAIN,music.mefun.org,emby
 
 #南瓜
-DOMAIN,nangua.de,PROXY
+DOMAIN,nangua.de,emby
 
 #音海
-DOMAIN,yinhai.aiinyue.com,PROXY
+DOMAIN,yinhai.aiinyue.com,emby
 
 #稳健电子书
-DOMAIN,book.hsu.life,PROXY
-DOMAIN,book.wenjian.de,PROXY
+DOMAIN,book.hsu.life,emby
+DOMAIN,book.wenjian.de,emby
 
 #鹅服
-DOMAIN,emusica.dhyy.eu.org,PROXY
+DOMAIN,emusica.dhyy.eu.org,emby
