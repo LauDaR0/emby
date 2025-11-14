@@ -81,6 +81,9 @@ DOMAIN,emby.nebula-media.org,emby
 #临境
 DOMAIN,emby.liminalnet.com,emby
 
+#临小境
+DOMAIN,lite.liminalnet.com,emby
+
 #无界云playz
 DOMAIN,playz.mjji.de,emby
 
