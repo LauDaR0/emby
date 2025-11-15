@@ -49,6 +49,10 @@ DOMAIN,lite.liminalnet.com,emby
 #无界云playz
 DOMAIN,playz.mjji.de,emby
 
+#KIKU
+DOMAIN,emby1.ucloudhost.top,emby
+DOMAIN,emby2.ucloudhost.top,emby
+
 #ZOX
 DOMAIN,zoxfree.3767483.xyz,emby
 
