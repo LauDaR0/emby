@@ -1,5 +1,8 @@
 #emby分流规则
 
+#探花
+DOMAIN,tanhuatv.site,emby
+
 #桃子
 DOMAIN,embymv.link,emby
 
