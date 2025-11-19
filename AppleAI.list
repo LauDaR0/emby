@@ -1,0 +1,12 @@
+# AppleIntelligence分流
+
+DOMAIN,gateway.icloud.com,AppleAI
+DOMAIN,guzzoni.apple.com,AppleAI
+DOMAIN,cp4.cloudflare.com,AppleAI
+DOMAIN,guzzoni.smoot.apple.com,AppleAI
+DOMAIN,apple-relay.apple.com,AppleAI
+DOMAIN,apple-relay.cloudflare.com,AppleAI
+DOMAIN,apple-relay.fastly-edge.com,AppleAI
+DOMAIN,gspe1-ssl.ls.apple.com,AppleAI
+DOMAIN,prodregistryv2.org,AppleAI
+DOMAIN,challenges.cloudflare.com,AppleAI
