@@ -1,10 +1,6 @@
 #蜗壳有声书
 DOMAIN,audiobook.mefun.org,DIRECT
 
-#歌词
-DOMAIN,lrc.xms.mx,DIRECT
-DOMAIN,lrc.811861.xyz,DIRECT
-DOMAIN,api.lrc.cx,DIRECT
 
 #唔语
 DOMAIN,api.miguu.top,DIRECT
