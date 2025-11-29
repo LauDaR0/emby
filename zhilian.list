@@ -1,6 +1,8 @@
 #emby直连
 #终点站
 DOMAIN,pub1.emby.wtf,DIRECT
+DOMAIN,pub2.emby.wtf,DIRECT
+DOMAIN,pub3.emby.wtf,DIRECT
 
 #cc
 DOMAIN,cc.embycc.link,DIRECT
