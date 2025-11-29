@@ -45,6 +45,7 @@ DOMAIN,emby.wenjian.de,emby
 
 #星云
 DOMAIN,emby.nebula-media.org,emby
+DOMAIN,emby-cdn1.nebula-media.org,emby
 
 #临境
 DOMAIN,emby.liminalnet.com,emby
