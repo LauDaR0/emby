@@ -1,9 +1,0 @@
-#!name = Wannianli Pro Unlock
-#!desc = Unlock Wannianli VIP (remote from ddgksf2013)
-#!author = ddgksf2013
-
-[Script]
-http-response ^https?:\/\/.*wannianli\.vip\/.* script-path=https://ddgksf2013.top/scripts/wannianli.vip.js, requires-body=true, timeout=10
-
-[MITM]
-hostname = wannianli.vip
