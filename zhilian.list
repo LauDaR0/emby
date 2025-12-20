@@ -84,5 +84,8 @@ DOMAIN,10520.xyz,DIRECT
 DOMAIN,link00.okemby.org,DIRECT
 DOMAIN,link01.okemby.org,DIRECT
 
+#404
+DOMAIN,ns1e.notfounda.shop,DIRECT
+
 
 
