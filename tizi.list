@@ -83,6 +83,9 @@ DOMAIN,emby.191920.xyz,emby
 #乐队
 DOMAIN,kessoku-bando.biliblili.uk,emby
 
+#cookia
+DOMAIN,info.us.kg,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
