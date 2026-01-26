@@ -189,6 +189,8 @@ DOMAIN,zhousanwan.xyz,emby
 #HelloHK
 IP-CIDR,199.188.198.202/32,emby
 
+#狗剩
+DOMAIN,gousen.cc.cd,emby
 
 #HG
 DOMAIN,emby.dnscf.dpdns.org,emby
