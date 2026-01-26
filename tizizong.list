@@ -198,6 +198,9 @@ DOMAIN,emby.dnscf.dpdns.org,emby
 #无拘
 DOMAIN,faemby.vip,emby
 
+#mirai
+DOMAIN,mi.miraiemby.com,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
