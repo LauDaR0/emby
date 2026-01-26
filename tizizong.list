@@ -186,7 +186,7 @@ DOMAIN,embyty.entertang.work,emby
 DOMAIN,zhousanwan.xyz,emby
 
 #HelloHK
-IP-CIDR,199.188.198.202,emby
+IP-CIDR,199.188.198.202/32,emby
 
 
 #HG
