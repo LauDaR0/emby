@@ -93,8 +93,6 @@ DOMAIN,info.us.kg,DIRECT
 #ETFLIX
 DOMAIN,embyty.entertang.work,DIRECT
 
-#HelloHK
-IP-CIDR,199.188.198.202/32,DIRECT
 
 #HG
 DOMAIN,emby.dnscf.dpdns.org,DIRECT
