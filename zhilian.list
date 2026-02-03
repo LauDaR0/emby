@@ -103,7 +103,10 @@ DOMAIN,mi.miraiemby.com,DIRECT
 DOMAIN,emos.best,DIRECT
 
 #Ryan
-DOMAIN,vod.doudou.pet
+DOMAIN,vod.doudou.pet,DIRECT
+
+#二刺螈
+DOMAIN,default.cdn.bgp.yt,DIRECT
 
 
 
