@@ -130,6 +130,9 @@ DOMAIN,a.emby.my,emby
 #HOHAI
 DOMAIN,emby.hohai.eu.org,emby
 
+#HOHAI
+DOMAIN,emby-npo.hohai.eu.org,emby
+
 #西瓜
 DOMAIN,emby.chilledmelon.com,emby
 DOMAIN,rn.chilledmelon.com,emby
