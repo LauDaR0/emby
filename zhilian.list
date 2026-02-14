@@ -58,7 +58,7 @@ DOMAIN,emby.bangumi.ca,DIRECT
 DOMAIN,emby.hohai.eu.org,DIRECT
 
 #HOHAI
-DOMAIN.emby-npo.hohai.eu.org,DIRECT
+DOMAIN,emby-npo.hohai.eu.org,DIRECT
 
 #月饼
 DOMAIN,emby.my,DIRECT
