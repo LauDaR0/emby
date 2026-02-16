@@ -87,6 +87,10 @@ DOMAIN,stream-1.miraiemby.com,emby
 #We
 DOMAIN,cf.wedg.top,emby
 
+#流影社
+DOMAIN,cloudflare.mjji.de,emby
+DOMAIN,cdnmj.apitron.net,emby
+
 
 
 #senplayer+弹幕
