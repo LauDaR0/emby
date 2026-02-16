@@ -215,6 +215,11 @@ DOMAIN,default.cdn.bgp.yt,emby
 #KLemby
 DOMAIN,tyemby.klplay.top,emby
 
+#流影社
+DOMAIN,cloudflare.mjji.de,emby
+DOMAIN,cdnmj.apitron.net,emby
+
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
