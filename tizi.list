@@ -91,6 +91,8 @@ DOMAIN,cf.wedg.top,emby
 DOMAIN,cloudflare.mjji.de,emby
 DOMAIN,cdnmj.apitron.net,emby
 
+#HG
+DOMAIN,emby.dnscf.dpdns.org,emby
 
 
 #senplayer+弹幕
