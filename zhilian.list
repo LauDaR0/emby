@@ -161,3 +161,6 @@ DOMAIN,emby.sadchicktv.com,DIRECT
 #小虾米
 DOMAIN,xxm.kingemby.xyz,DIRECT
 
+#反代
+DOMAIN,emby.926934.xyz,DIERECT
+
