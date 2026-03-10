@@ -256,6 +256,9 @@ DOMAIN,emby.sadchicktv.com,emby
 #小虾米
 DOMAIN,xxm.kingemby.xyz,emby
 
+#反代
+DOMAIN,emby.926934.xyz,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
