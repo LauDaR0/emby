@@ -1,4 +1,4 @@
-#emby分流规则
+
 
 #探花
 DOMAIN,tanhuatv.site,emby
@@ -90,6 +90,9 @@ DOMAIN,cdnmj.apitron.net,emby
 
 #HG
 DOMAIN,emby.dnscf.dpdns.org,emby
+
+#ask
+DOMAIN,ask.ash.yt,emby
 
 
 
