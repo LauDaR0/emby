@@ -89,7 +89,7 @@ DOMAIN,cloudflare.mjji.de,emby
 DOMAIN,cdnmj.apitron.net,emby
 
 #HG
-DOMAIN,emby.dnscf.dpdns.org,emby
+DOMAIN,hgemby.qzz.io,emby
 
 #ask
 DOMAIN,ask.ash.yt,emby
