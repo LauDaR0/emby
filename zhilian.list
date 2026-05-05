@@ -28,8 +28,8 @@ DOMAIN,emby.carlos.trade,DIRECT
 DOMAIN,cf.carlos.trad,DIRECT
 
 #起点站
-DOMAIN,free.28.al,DIRECT
-DOMAIN,free3.28.al,DIRECT
+DOMAIN,test.28.al,DIRECT
+
 
 #MSKY
 DOMAIN,wcf.3msky.com,DIRECT
