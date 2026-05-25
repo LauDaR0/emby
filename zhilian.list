@@ -27,7 +27,6 @@ DOMAIN,cf.carlos.trad,DIRECT
 #起点站
 DOMAIN,test.28.al,DIRECT
 
-
 #MSKY
 DOMAIN,wcf.3msky.com,DIRECT
 
@@ -67,7 +66,6 @@ DOMAIN,saodu6.top,DIRECT
 DOMAIN,saodu6.cn,DIRECT
 DOMAIN,5165163.xyz,DIRECT
 DOMAIN,ty302.saodu.wang,DIRECT
-
 
 #coco
 DOMAIN,cloud.259772.xyz,DIRECT
@@ -164,8 +162,10 @@ DOMAIN,vip.iemby.cn,DIRECT
 #梦工厂
 DOMAIN,luminoustrace.xyz,DIRECT
 
-#灵车
+#瞬影
 DOMAIN,emby.n150.asia,DIRECT
+DOMAIN,emby-yd.n150.asia,DIRECT
+DOMAIN,yd01.n150.asia,DIRECT
 
 #飞越彩虹
 DOMAIN,fych.feiyue.lol,DIRECT
