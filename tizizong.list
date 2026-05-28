@@ -301,6 +301,9 @@ DOMAIN,test.inemby.us.ci,emby
 DOMAIN,lunarisvault.com,emby
 DOMAIN,transfer.lunarisvault.com,emby
 
+#这只猫
+DOMAIN,eb.zzm.li,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
