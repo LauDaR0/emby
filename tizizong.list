@@ -115,9 +115,7 @@ DOMAIN,public.shrekmedia.org,emby
 DOMAIN,shouer.910427.xyz,emby
 
 #终点站
-DOMAIN,pub1.emby.wtf,emby
-DOMAIN,pub2.emby.wtf,emby
-DOMAIN,pub3.emby.wtf,emby
+DOMAIN,c.emby.wtf,emby
 
 #豆瓣
 DOMAIM,onatoshi.114514.quest,emby
