@@ -176,8 +176,9 @@ DOMAIN,www.saodu.work,emby
 #404
 DOMAIN,ns1e.notfounda.shop,emby
 
-#cookia
+#cookie
 DOMAIN,cookieadd.dpdns.org,emby
+DOMAIN,emby.nas.edu.kg,emby
 
 #ETFLIX
 DOMAIN,embyty.entertang.work,emby
