@@ -120,6 +120,10 @@ DOMAIN,emby.n150.asia,emby
 DOMAIN,emby-yd.n150.asia,emby
 DOMAIN,yd01.n150.asia,emby
 
+#lunaris
+DOMAIN,lunarisvault.com,emby
+DOMAIN,transfer.lunarisvault.com,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
