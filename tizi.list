@@ -127,6 +127,11 @@ DOMAIN,bb.111848.xyz,emby
 DOMAIN,cookieadd.dpdns.org,emby
 DOMAIN,emby.nas.edu.kg,emby
 
+#猫窝  
+DOMAIN,emby1.steiffs.uk,emby
+DOMAIN,mwyy.stieff.uk,emby
+DOMAIN,emby.stieff.uk,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
