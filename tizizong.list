@@ -312,6 +312,9 @@ DOMAIN,emby1.steiffs.uk,emby
 DOMAIN,mwyy.stieff.uk,emby
 DOMAIN,emby.stieff.uk,emby
 
+#Cola 
+DOMAIN,emby.misaka.si,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
