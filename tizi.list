@@ -92,6 +92,10 @@ DOMAIN,emby.zhousanwan.xyz,emby
 #mirai
 DOMAIN,stream-1.miraiemby.com,emby
 
+#mirai
+DOMAIN,mi.miraiemby.com,emby
+DOMAIN,vip1.miraiemby.com,emby
+
 #流影社
 DOMAIN,cloudflare.mjji.de,emby
 DOMAIN,cdnmj.apitron.net,emby
