@@ -1,6 +1,3 @@
-#ikun音乐服
-DOMAIN,music.28.al,DIRECT
-
 #稳健音乐
 DOMAIN,music.wenjian.de,DIRECT
 
@@ -11,14 +8,11 @@ DOMAIN,music.mefun.org,DIRECT
 DOMAIN,nangua.de,DIRECT
 
 #音海
-DOMAIN,yinhai.aiinyue.com,DIRECT
+DOMAIN,yueer.makifx.com,DIRECT
 
 #稳健电子书
 DOMAIN,book.hsu.life,DIRECT
 DOMAIN,book.wenjian.de,DIRECT
-
-#鹅服
-DOMAIN,emusica.dhyy.eu.org,DIRECT
 
 #echo
 DOMAIN,music.echoflix.de,DIRECT
