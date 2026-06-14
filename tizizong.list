@@ -3,12 +3,6 @@
 #桃子
 DOMAIN,embymv.link,emby
 
-#MISTY
-DOMAIN,misty.cx,emby
-
-#见手青
-DOMAIN,jsq.vban.xyz,emby
-
 #nya公益
 DOMAIN,emby.bangumi.ca,emby
 
@@ -38,15 +32,8 @@ DOMAIN,test.28.al,emby
 #youno
 DOMAIN,emby.younoyes.com,emby
 
-#KIKU
-DOMAIN,emby1.ucloudhost.top,emby
-DOMAIN,emby2.ucloudhost.top,emby
-
 #SaturDar.Lite
 DOMAIN,lite.saturdayent.top,emby
-
-#PORNfans
-DOMAIN,pornemby.com,emby
 
 #特卡
 DOMAIN,cf.carlos.trade,emby
@@ -62,9 +49,6 @@ DOMAIN,cdn.sfcj.org,emby
 #飞了个喵
 DOMAIN,gy.meowfly.de,emby
 
-#紫罗兰
-DOMAIN,emby.violet.run,emby
-
 #CC
 DOMAIN,cc.mnyvc.xyz,emby
 DOMAIN,cc.coemn.com,emby
@@ -74,9 +58,6 @@ DOMAIN,emby.feiniu.lol,emby
 
 #惊蛰
 DOMAIN,emby.jingzhe.pro,emby
-
-#yomo服不服
-DOMAIN,emby.yamo.uk,emby
 
 #星云
 DOMAIN,emby.nebula-media.org,emby
@@ -90,9 +71,6 @@ DOMAIN,cf.aixj.de,emby
 
 #无界云playz
 DOMAIN,playzemby.mjji.de,emby
-
-#star emby
-DOMAIN,de2.staryuki.me,emby
 
 #银河列车
 DOMAIN,ciallo.party,emby
@@ -135,13 +113,8 @@ DOMAIN,emby-npo.hohai.eu.org,emby
 DOMAIN,v.chilledmelon.com,emby
 DOMAIN,cf.xgua.de,emby
 
-
-#云幕
-DOMAIN,emby.nubebelle.cn,emby
-
 #反集邮
 DOMAIN,emby.hlxll.top,emby
-
 
 #电视台
 DOMAIN,emby.ichinosekotomi.com,emby
@@ -151,9 +124,6 @@ DOMAIN,emos.best,emby
 
 #乐队
 DOMAIN,genshin.biliblili.uk,emby
-
-#coco
-DOMAIN,cloud.259772.xyz,emby
 
 #embydada
 DOMAIN,101514.xyz,emby
@@ -191,9 +161,6 @@ DOMAIN,emby.zhousanwan.xyz,emby
 
 #风月阁
 DOMAIN,hellohk.me,emby
-
-#狗剩
-DOMAIN,gousen.cc.cd,emby
 
 #HG
 DOMAIN,hgemby.qzz.io,emby
