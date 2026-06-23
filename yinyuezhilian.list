@@ -1,21 +1,30 @@
 #稳健音乐
-DOMAIN,music.wenjian.de,DIRECT
+DOMAIN,music.wenjian.de
 
 #未响
-DOMAIN,music.mefun.org,DIRECT
+DOMAIN,music.mefun.org
 
 #南瓜
-DOMAIN,nangua.de,DIRECT
+DOMAIN,nangua.de
 
-#音海
-DOMAIN,yueer.makifx.com,DIRECT
+#悦耳
+DOMAIN,yueer.makifx.com
 
 #稳健电子书
-DOMAIN,book.hsu.life,DIRECT
-DOMAIN,book.wenjian.de,DIRECT
+DOMAIN,book.hsu.life
+DOMAIN,book.wenjian.de
 
 #echo
-DOMAIN,music.echoflix.de,DIRECT
+DOMAIN,music.echoflix.de
 
 #lxd 
-DOMAIN,ap-singapore-1.vds.qzz.io,DIRECT
+DOMAIN,ap-singapore-1.vds.qzz.io
+
+#风月阁
+DOMAIN,music.60442173.xyz
+
+#叶子 
+DOMAIN,ys.lyezi.cc
+
+#蜗壳
+DOMAIN,audiobook.mefun.org
