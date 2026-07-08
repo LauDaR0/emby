@@ -162,7 +162,8 @@ DOMAIN,od.emby.fan,emby
 DOMAIN,emby.vincent253.us.ci,emby
 
 #怎么肥事
-DOMAIN,152.70.110.194,emby
+IP-CIDR,152.70.110.194,emby
+IP-CIDR,207.56.228.178,emby
 
 
 #senplayer+弹幕
