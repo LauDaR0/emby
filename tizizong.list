@@ -284,6 +284,10 @@ DOMAIN,emby.staryuki.com,emby
 #野草地
 DOMAIN,od.emby.fan,emby
 
+#怎么肥事
+IP-CIDR,152.70.110.194,emby
+IP-CIDR,207.56.228.178,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
