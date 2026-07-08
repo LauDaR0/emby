@@ -161,10 +161,6 @@ DOMAIN,od.emby.fan,emby
 #乐呵
 DOMAIN,emby.vincent253.us.ci,emby
 
-#怎么肥事
-IP-CIDR,152.70.110.194,emby
-IP-CIDR,207.56.228.178,emby
-
 
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
@@ -174,10 +170,6 @@ DOMAIN,www.2019102.xyz,emby
 DOMAIN,bocchi.bilibili-danmu.uk,emby
 DOMAIN,dm.liuuu.top,emby
 DOMAIN,dmk.liuuu.top,emby
-
-#疑似emby
-DOMAIN,1-openlist.xn--acg-4i2f.xyz,emby
-
 
 
 
