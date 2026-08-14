@@ -127,10 +127,9 @@ DOMAIN,emos.best,emby
 #乐队
 DOMAIN,genshin.biliblili.uk,emby
 
-#embydada
-DOMAIN,101514.xyz,emby
-DOMAIN,ccyu.ccwu.cc,emby
-DOMAIN,707909.xyz,emby
+#佬友记
+DOMAIN,lyj.ysz.dpdns.org,emby
+DOMAIN,emby.605305.xyz,emby
 
 #OKemby
 DOMAIN,link00.okemby.org,emby
@@ -303,6 +302,9 @@ DOMAIN,aaa.yusen6.ccwu.cc,emby
 DOMAIN,emby.yusen.us.ci,emby
 DOMAIN,embya.yusen.cyou,emby
 DOMAIN,emby.yusen.cc.cd,emby
+
+#茶百道
+DOMAIN,emby.teawaya.com,emby
 
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
