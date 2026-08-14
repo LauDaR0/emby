@@ -51,9 +51,9 @@ DOMAIN,emby-npo.hohai.eu.org,DIRECT
 DOMAIN,emby.my,DIRECT
 DOMAIN,a.emby.my,DIRECT
 
-#云幕
-DOMAIN,emby.nubebelle.cn,DIRECT
-
+#佬友记
+DOMAIN,lyj.ysz.dpdns.org,DIRECT
+DOMAIN,emby.605305.xyz,DIRECT
 #反集邮
 DOMAIN,emby.hlxll.top,DIRECT
 
