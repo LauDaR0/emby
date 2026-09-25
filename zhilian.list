@@ -54,8 +54,6 @@ DOMAIN,a.emby.my,DIRECT
 #佬友记
 DOMAIN,lyj.ysz.dpdns.org,DIRECT
 DOMAIN,emby.605305.xyz,DIRECT
-#反集邮
-DOMAIN,emby.hlxll.top,DIRECT
 
 #麦当劳  
 DOMAIN,saodu6.top,DIRECT
@@ -188,6 +186,9 @@ DOMAIN,media.wybcs.work,DIRECT
 
 #茶包
 DOMAIN,tbagemby.tbag.dpdns.org,DIRECT
+
+#流影社
+DOMAIN,awsjp.mjji.de.L,DIRECT
 
 
 
