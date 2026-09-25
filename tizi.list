@@ -181,6 +181,10 @@ DOMAIN,xg.yuntv.de,emby
 #合欢宗
 DOMAIN,ebjh.siyouyun.eu.org,emby
 
+#随时跑路
+DOMAIN,emby.kingemby.com,emby
+
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
