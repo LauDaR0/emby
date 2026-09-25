@@ -187,8 +187,8 @@ DOMAIN,default.cdn.bgp.yt,emby
 DOMAIN,tyemby.klplay.top,emby
 
 #流影社
-DOMAIN,cloudflare.mjji.de,emby
-DOMAIN,cdnmj.apitron.net,emby
+DOMAIN,cloudlite.mjji.de,emby
+DOMAIN,awsjp.mjji.de,emby
 
 #牛逼
 DOMAIN,772111.xyz,emby
