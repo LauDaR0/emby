@@ -98,8 +98,7 @@ DOMAIN,mi.miraiemby.com,emby
 DOMAIN,vip1.miraiemby.com,emby
 
 #流影社
-DOMAIN,cloudflare.mjji.de,emby
-DOMAIN,cdnmj.apitron.net,emby
+DOMAIN,cloudlite.mjji.de,emby
 
 #牛逼
 DOMAIN,772111.xyz,emby
