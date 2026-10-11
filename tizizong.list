@@ -310,6 +310,20 @@ DOMAIN,emby.teawaya.com,emby
 DOMAIN,www.yuntv.de,emby
 DOMAIN,xg.yuntv.de,emby
 
+#二楼
+DOMAIN,emby.huangmin.cc.cd,emby
+DOMAIN,emby2.huangmin.cc.cd,emby
+DOMAIN,2l.585820.xyz,emby
+
+#宸澄
+DOMAIN,embycc.wybcs.work,emby
+
+#茶包
+DOMAIN,tbagemby.tbag.dpdns.org,emby
+
+#流影社
+DOMAIN,awsjp.mjji.de,emby
+
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
 DOMAIN,dandan.wenjian.de,emby
