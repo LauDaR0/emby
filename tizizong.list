@@ -304,7 +304,7 @@ DOMAIN,embya.yusen.cyou,emby
 DOMAIN,emby.yusen.cc.cd,emby
 
 #茶百道
-DOMAIN,emby.teawaya.com,emby
+DOMAIN,emby.chapanda.site,emby
 
 #常温西瓜
 DOMAIN,www.yuntv.de,emby
@@ -323,6 +323,15 @@ DOMAIN,tbagemby.tbag.dpdns.org,emby
 
 #流影社
 DOMAIN,awsjp.mjji.de,emby
+
+#合欢宗
+DOMAIN,ebjh.siyouyun.eu.org,emby
+
+#随时跑路
+DOMAIN,emby.kingemby.com,emby
+
+#BB
+DOMAIN,emby.bbqwq.com,emby
 
 #senplayer+弹幕
 DOMAIN,dl.carryz.net,emby
