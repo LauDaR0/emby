@@ -2,6 +2,8 @@
 
 # ===== 直连节点 =====
 
+#emby直连
+
 #西瓜
 DOMAIN,us.chilledmelon.com
 DOMAIN,us.697758.xyz
@@ -158,10 +160,6 @@ DOMAIN,emby.yxmm.xyz
 #cc
 DOMAIN,cc.mnyvc.xyz
 
-#乐呵
-DOMAIN,emby.vincent253.us.ci
-DOMAIN,emby.vincentjia.top
-
 #牛逼
 DOMAIN,cm.772111.xyz
 
@@ -186,10 +184,6 @@ DOMAIN,tbagemby.tbag.dpdns.org
 DOMAIN,awsjp.mjji.de
 
 # ===== 代理节点 =====
-
-#常温西瓜
-DOMAIN,www.yuntv.de
-DOMAIN,xg.yuntv.de
 
 #探花
 DOMAIN,tanhuatv.site
@@ -350,6 +344,10 @@ DOMAIN,emo.iemby.cn
 #野草地
 DOMAIN,od.emby.fan
 
+#乐呵
+DOMAIN,emby.vincent253.us.ci
+DOMAIN,emby.vincentjia.top
+
 #帝
 DOMAIN,emby.di0.uk
 
@@ -366,6 +364,7 @@ DOMAIN,www.eoos.top
 DOMAIN,emby.chapanda.site
 
 #常温西瓜
+DOMAIN,www.yuntv.de
 DOMAIN,xg.yuntv.de
 
 #合欢宗
