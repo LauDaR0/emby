@@ -71,7 +71,9 @@ DOMAIN,link01.okemby.org,DIRECT
 DOMAIN,ns1e.notfounda.shop,DIRECT
 
 #ETFLIX
-DOMAIN,embyty.entertang.work,DIRECT
+DOMAIN,goemby.entertang.work,DIRECT
+DOMAIN,goemby.etflix.lol
+DOMAIN,embygogo.entertang.work
 
 #狗剩
 DOMAIN,gousen.cc.cd,DIRECT
