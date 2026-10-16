@@ -155,7 +155,10 @@ DOMAIN,cookieadd.dpdns.org,emby
 DOMAIN,emby.nas.edu.kg,emby
 
 #ETFLIX
-DOMAIN,embyty.entertang.work,emby
+#ETFLIX
+DOMAIN,goemby.entertang.work
+DOMAIN,goemby.etflix.lol
+DOMAIN,embygogo.entertang.work
 
 #周三晚
 DOMAIN,emby.zhousanwan.xyz,emby
