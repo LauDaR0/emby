@@ -1,194 +1,193 @@
 #emby直连
 
 #西瓜
-DOMAIN,us.chilledmelon.com,DIRECT
-DOMAIN,us.697758.xyz,DIRECT
+DOMAIN,us.chilledmelon.com
+DOMAIN,us.697758.xyz
 
 #yomo服不服
-DOMAIN,emby.yamo.uk,DIRECT
+DOMAIN,emby.yamo.uk
 
 #紫罗兰
-DOMAIN,emby.violet.run,DIRECT
+DOMAIN,emby.violet.run
 
 #见手青
-DOMAIN,jsq.vban.xyz,DIRECT
+DOMAIN,jsq.vban.xyz
 
 #叔服
-DOMAIN,emby3.mcjoker.xyz,DIRECT
+DOMAIN,emby3.mcjoker.xyz
 
 #特卡
-DOMAIN,emby.carlos.trade,DIRECT
-DOMAIN,cf.carlos.trad,DIRECT
+DOMAIN,emby.carlos.trade
+DOMAIN,cf.carlos.trad
 
 #起点站
-DOMAIN,test.28.al,DIRECT
+DOMAIN,test.28.al
 
 #惊蛰
-DOMAIN,emby.jingzhe.pro,DIRECT
+DOMAIN,emby.jingzhe.pro
 
 #小竹轩
-DOMAIN,shouer.910427.xyz,DIRECT
+DOMAIN,shouer.910427.xyz
 
 #豆瓣
-DOMAIN,onatoshi.114514.quest,DIRECT
+DOMAIN,onatoshi.114514.quest
 
 #Shrek
-DOMAIN,public.shrekmedia.org,DIRECT
+DOMAIN,public.shrekmedia.org
 
 #nya
-DOMAIN,emby.bangumi.ca,DIRECT
+DOMAIN,emby.bangumi.ca
 
 #HOHAI
-DOMAIN,emby.hohai.eu.org,DIRECT
+DOMAIN,emby.hohai.eu.org
 
 #HOHAI
-DOMAIN,emby-npo.hohai.eu.org,DIRECT
+DOMAIN,emby-npo.hohai.eu.org
 
 #月饼
-DOMAIN,emby.my,DIRECT
-DOMAIN,a.emby.my,DIRECT
+DOMAIN,emby.my
+DOMAIN,a.emby.my
 
 #佬友记
-DOMAIN,lyj.ysz.dpdns.org,DIRECT
-DOMAIN,emby.605305.xyz,DIRECT
+DOMAIN,lyj.ysz.dpdns.org
+DOMAIN,emby.605305.xyz
 
 #麦当劳  
-DOMAIN,saodu6.top,DIRECT
-DOMAIN,saodu6.cn,DIRECT
-DOMAIN,5165163.xyz,DIRECT
-DOMAIN,ty302.saodu.wang,DIRECT
+DOMAIN,saodu6.top
+DOMAIN,saodu6.cn
+DOMAIN,5165163.xyz
+DOMAIN,ty302.saodu.wang
 
 #coco
-DOMAIN,cloud.259772.xyz,DIRECT
+DOMAIN,cloud.259772.xyz
 
 #OKemby
-DOMAIN,link00.okemby.org,DIRECT
-DOMAIN,link01.okemby.org,DIRECT
+DOMAIN,link00.okemby.org
+DOMAIN,link01.okemby.org
 
 #404
-DOMAIN,ns1e.notfounda.shop,DIRECT
+DOMAIN,ns1e.notfounda.shop
 DOMAIN,ccccddddnnnn.notfounda.shop
 DOMAIN,embyxb.vvprovip.top
 
 #ETFLIX
-DOMAIN,goemby.entertang.work,DIRECT
+DOMAIN,goemby.entertang.work
 DOMAIN,goemby.etflix.lol
 DOMAIN,embygogo.entertang.work
 
 #狗剩
-DOMAIN,gousen.cc.cd,DIRECT
+DOMAIN,gousen.cc.cd
 
 #EMOS
-DOMAIN,video.emos.best,DIRECT
+DOMAIN,video.emos.best
 
 #Ryan
-DOMAIN,us01.doudou.pet,DIRECT
+DOMAIN,us01.doudou.pet
 
 #二刺螈
-DOMAIN,default.cdn.bgp.yt,DIRECT
+DOMAIN,default.cdn.bgp.yt
 
 #KLemby
-DOMAIN,tyemby.klplay.top,DIRECT
+DOMAIN,tyemby.klplay.top
 
 #无拘
-DOMAIN,faemby.vip,DIRECT
+DOMAIN,faemby.vip
 
 #叶子
-DOMAIN,wp.lyezi.cc,DIRECT
+DOMAIN,wp.lyezi.cc
 
 #404
-DOMAIN,ns1e.notfounda.shop,DIRECT
+DOMAIN,ns1e.notfounda.shop
 
 #鲲鹏
-DOMAIN,emby.rochub.xyz,DIRECT
-DOMAIN,emby.cf.rochub.xyz,DIRECT
+DOMAIN,emby.rochub.xyz
+DOMAIN,emby.cf.rochub.xyz
 
 #ebs
-DOMAIN,ebs.digimon.ink,DIRECT
-DOMAIN,ebs.sbcnm.us.ci,DIRECT
+DOMAIN,ebs.digimon.ink
+DOMAIN,ebs.sbcnm.us.ci
 
 #We
-DOMAIN,a.wedg.top,DIRECT
-DOMAIN,cmcc.wedg.top,DIRECT
-DOMAIN,us.wedg.top,DIRECT
-DOMAIN,cf.wedg.top,DIRECT
-DOMAIN,tt.wedg.top,DIRECT
+DOMAIN,a.wedg.top
+DOMAIN,cmcc.wedg.top
+DOMAIN,us.wedg.top
+DOMAIN,cf.wedg.top
+DOMAIN,tt.wedg.top
 
 #MWP
-DOMAIN,mmp.digimon.ink,DIRECT
+DOMAIN,mmp.digimon.ink
 
 #小姨子
-DOMAIN,gy.emby.yun,DIRECT
+DOMAIN,gy.emby.yun
 
 #月之轩
-DOMAIN,emby.4348663.xyz,DIRECT
+DOMAIN,emby.4348663.xyz
 
 #西瓜
-DOMAIN,www.yuntv.de,DIRECT
+DOMAIN,www.yuntv.de
 
 #折纸
-DOMAIN,cdn.zhezhi.art,DIRECT
-DOMAIN,emby101.origamiart.uk,DIRECT
+DOMAIN,cdn.zhezhi.art
+DOMAIN,emby101.origamiart.uk
 
 #鸡窝    
-DOMAIN,emby.sadchicktv.com,DIRECT
-DOMAIN,emby2.sadchicktv.com,DIRECT
+DOMAIN,emby.sadchicktv.com
+DOMAIN,emby2.sadchicktv.com
 
 #小虾米
-DOMAIN,emby.kingemby.xyz,DIRECT
+DOMAIN,emby.kingemby.xyz
 
 #香菜
-DOMAIN,vip.iemby.cn,DIRECT
+DOMAIN,vip.iemby.cn
 
 #梦工厂
-DOMAIN,luminoustrace.xyz,DIRECT
+DOMAIN,luminoustrace.xyz
 
 #hg 
-DOMAIN,111660.xyz,DIRECT
-DOMAIN,hgemby.qzz.io,DIRECT
-DOMAIN,111848.xyz,DIRECT
-DOMAIN,hgemby.帝acg.xyz,DIRECT
+DOMAIN,111660.xyz
+DOMAIN,hgemby.qzz.io
+DOMAIN,111848.xyz
+DOMAIN,hgemby.帝acg.xyz
 
 #这只猫
-DOMAIN,eb.zzm.li,DIRECT
+DOMAIN,eb.zzm.li
 DOMAIN,vipdc.covh.eu.org
 
 #lunaris
-DOMAIN,lunarisvault.com,DIRECT
+DOMAIN,lunarisvault.com
 
 #卡皮巴拉
-DOMAIN,emby.yxmm.xyz,DIRECT
+DOMAIN,emby.yxmm.xyz
 
 #cc
-DOMAIN,cc.mnyvc.xyz,DIRECT
+DOMAIN,cc.mnyvc.xyz
 
 #乐呵
-DOMAIN,emby.vincent253.us.ci,DIRECT
-DOMAIN,emby.vincentjia.top,DIRECT
+DOMAIN,emby.vincent253.us.ci
+DOMAIN,emby.vincentjia.top
 
 #牛逼
-DOMAIN,cm.772111.xyz,DIRECT
+DOMAIN,cm.772111.xyz
 
 #予初
-DOMAIN,aaa.yusen6.ccwu.cc,DIRECT
-DOMAIN,emby.yusen.us.ci,DIRECT
-DOMAIN,embya.yusen.cyou,DIRECT
-DOMAIN,emby.yusen.cc.cd,DIRECT
+DOMAIN,aaa.yusen6.ccwu.cc
+DOMAIN,emby.yusen.us.ci
+DOMAIN,embya.yusen.cyou
+DOMAIN,emby.yusen.cc.cd
 
 #二楼
-DOMAIN,emby.huangmin.cc.cd,DIRECT
-DOMAIN,emby2.huangmin.cc.cd,DIRECT
-DOMAIN,2l.585820.xyz,DIRECT
+DOMAIN,emby.huangmin.cc.cd
+DOMAIN,emby2.huangmin.cc.cd
+DOMAIN,2l.585820.xyz
 
 #宸澄
-DOMAIN,embycc.wybcs.work,DIRECT
+DOMAIN,embycc.wybcs.work
 
 #茶包
-DOMAIN,tbagemby.tbag.dpdns.org,DIRECT
+DOMAIN,tbagemby.tbag.dpdns.org
 
 #流影社
-DOMAIN,awsjp.mjji.de,DIRECT
-
+DOMAIN,awsjp.mjji.de
 
 
 
