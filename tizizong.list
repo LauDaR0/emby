@@ -141,16 +141,6 @@ DOMAIN,vip.iemby.cn
 #梦工厂
 DOMAIN,luminoustrace.xyz
 
-#hg 
-DOMAIN,111660.xyz
-DOMAIN,hgemby.qzz.io
-DOMAIN,111848.xyz
-DOMAIN,hgemby.帝acg.xyz
-
-#这只猫
-DOMAIN,eb.zzm.li
-DOMAIN,vipdc.covh.eu.org
-
 #lunaris
 DOMAIN,lunarisvault.com
 
@@ -399,3 +389,10 @@ DOMAIN,111660.xyz
 DOMAIN,hgemby.qzz.io
 DOMAIN,111848.xyz
 DOMAIN,hgemby.帝acg.xyz
+
+#这只猫
+DOMAIN,eb.zzm.li
+DOMAIN,vipdc.covh.eu.org
+
+#盒马
+DOMAIN,media.freshippo.uno
