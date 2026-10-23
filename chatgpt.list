@@ -1,0 +1,40 @@
+# ChatGPT / OpenAI（ChatGPT、Sora、Codex、Search）
+
+# ===== 主域 =====
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.fm
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,searchgpt.com
+
+# ===== CDN / 静态资源 / 存储 =====
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+
+# ===== 人机验证（须与主域同出口，否则验证死循环） =====
+DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,arkoselabs.com
+
+# ===== 语音模式 LiveKit =====
+DOMAIN-SUFFIX,livekit.cloud
+
+# ===== 地区判定 / 特性开关（缺一即报“地区不可用”） =====
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,prodregistryv2.org
+
+# ===== 兜底关键词 =====
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,sora
