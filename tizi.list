@@ -43,8 +43,8 @@ DOMAIN,emby-cdn1.nebula-media.org
 #临境
 DOMAIN,emby.liminalnet.com
 
-#无界云playz
-DOMAIN,playzemby.mjji.de
+#playz
+DOMAIN,playz.panelio.org
 
 #micU
 DOMAIN,media.micu.hk
@@ -78,7 +78,7 @@ DOMAIN,mi.miraiemby.com
 DOMAIN,vip1.miraiemby.com
 
 #流影社
-DOMAIN,cloudlite.mjji.de
+DOMAIN,lyslite.panelio.org
 
 #牛逼
 DOMAIN,772111.xyz
