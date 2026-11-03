@@ -4,15 +4,6 @@
 DOMAIN,us.chilledmelon.com
 DOMAIN,us.697758.xyz
 
-#yomo服不服
-DOMAIN,emby.yamo.uk
-
-#紫罗兰
-DOMAIN,emby.violet.run
-
-#见手青
-DOMAIN,jsq.vban.xyz
-
 #叔服
 DOMAIN,emby3.mcjoker.xyz
 
@@ -25,9 +16,6 @@ DOMAIN,test.28.al
 
 #惊蛰
 DOMAIN,emby.jingzhe.pro
-
-#小竹轩
-DOMAIN,shouer.910427.xyz
 
 #豆瓣
 DOMAIN,onatoshi.114514.quest
@@ -58,9 +46,6 @@ DOMAIN,saodu6.cn
 DOMAIN,5165163.xyz
 DOMAIN,ty302.saodu.wang
 
-#coco
-DOMAIN,cloud.259772.xyz
-
 #OKemby
 DOMAIN,link00.okemby.org
 DOMAIN,link01.okemby.org
@@ -75,20 +60,11 @@ DOMAIN,goemby.entertang.work
 DOMAIN,goemby.etflix.lol
 DOMAIN,embygogo.entertang.work
 
-#狗剩
-DOMAIN,gousen.cc.cd
-
 #EMOS
 DOMAIN,video.emos.best
 
-#Ryan
-DOMAIN,us01.doudou.pet
-
 #二刺螈
 DOMAIN,default.cdn.bgp.yt
-
-#KLemby
-DOMAIN,tyemby.klplay.top
 
 #无拘
 DOMAIN,faemby.vip
@@ -100,25 +76,12 @@ DOMAIN,wp.lyezi.cc
 DOMAIN,emby.rochub.xyz
 DOMAIN,emby.cf.rochub.xyz
 
-#ebs
-DOMAIN,ebs.digimon.ink
-DOMAIN,ebs.sbcnm.us.ci
-
 #We
 DOMAIN,a.wedg.top
 DOMAIN,cmcc.wedg.top
 DOMAIN,us.wedg.top
 DOMAIN,cf.wedg.top
 DOMAIN,tt.wedg.top
-
-#MWP
-DOMAIN,mmp.digimon.ink
-
-#小姨子
-DOMAIN,gy.emby.yun
-
-#月之轩
-DOMAIN,emby.4348663.xyz
 
 #折纸
 DOMAIN,cdn.zhezhi.art
@@ -130,18 +93,6 @@ DOMAIN,emby2.sadchicktv.com
 
 #小虾米
 DOMAIN,emby.kingemby.xyz
-
-#香菜
-DOMAIN,vip.iemby.cn
-
-#梦工厂
-DOMAIN,luminoustrace.xyz
-
-#lunaris
-DOMAIN,lunarisvault.com
-
-#卡皮巴拉
-DOMAIN,emby.yxmm.xyz
 
 #cc
 DOMAIN,cc.mnyvc.xyz
