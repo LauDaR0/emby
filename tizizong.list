@@ -128,7 +128,7 @@ DOMAIN,awsjp.panelio.org
 
 #宸宇
 DOMAIN,hk2.dylan.xin
-
+DOMAIN,media.dylan.xin
 #乐观
 DOMAIN,emby.dijia.de
 DOMAIN,yxrkemby.haosao.de
@@ -274,6 +274,7 @@ DOMAIN,www.eoos.top
 #茶百道
 DOMAIN,emby.chapanda.site
 DOMAIN,emby.teawaya.com
+
 #常温西瓜
 DOMAIN,www.yuntv.de
 DOMAIN,xg.yuntv.de
