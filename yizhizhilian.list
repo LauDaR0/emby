@@ -1,7 +1,8 @@
 
 #唔语
-DOMAIN,api.miguu.top,DIRECT
-DOMAIN,api.mibook.top,DIRECT
+DOMAIN,api.miguu.top
+DOMAIN,api.mibook.top
 
 #panda pt站
-HOST-SUFFIX,pandapt.net,DIRECT
+DOMAIN,pandapt.net
+
